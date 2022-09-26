@@ -2,13 +2,15 @@ body{
     background-color: #F1E6D0;
 }
 
-.oque {
-    position: absolute;
-    font-family: 'Inika';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 150px;
+.cima{
+    background-color: #AC8331;
+}
 
-    color: #2C2828;
+.ongs{
+    background-color: #AC8231;
+}
+
+.pq{
+    background-color: #AC8231;
+    border-radius: 82px;
 }
