@@ -1,0 +1,14 @@
+body{
+    background-color: #F1E6D0;
+}
+
+.oque {
+    position: absolute;
+    font-family: 'Inika';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 150px;
+
+    color: #2C2828;
+}
