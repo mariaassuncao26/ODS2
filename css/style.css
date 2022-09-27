@@ -8,9 +8,18 @@ body{
 
 .ongs{
     background-color: #AC8231;
+    width: 400px;
+    height: 450px;
+    border-radius: 82px;
 }
 
 .pq{
     background-color: #AC8231;
+    width: 600px;
+    height: 10px;
     border-radius: 82px;
+}
+
+.footer{
+    background-color: #AC8331;
 }
