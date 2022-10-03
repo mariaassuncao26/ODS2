@@ -18,27 +18,15 @@ body{
 }
 
 .pq{
-    background-color: #AC8231;
-    width: 600px;
-    height: 60px;
-    left: 100%;
-    border-radius: 82px;
+    color: #000000;
 }
 
 .titulo{
-    position: absolute;
-width: 546px;
-height: 74px;
-left: 191px;
-top: 1993px;
-
 font-family: 'Inika';
 font-style: normal;
-font-weight: 400;
-font-size: 48px;
-line-height: 63px;
 
-color: #000000;
+background-color: #AC8231;
+border-radius: 82px;
 }
 
 .footer{
