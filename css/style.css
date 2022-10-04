@@ -11,10 +11,10 @@ body{
 }
 
 .ongs{
-    background-color: #AC8231;
+    background-color: #cab07c;
     width: 400px;
     height: 450px;
-    border-radius: 82px;
+    border: #000000;
 }
 
 .pq{
