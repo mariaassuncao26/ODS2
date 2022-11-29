@@ -8,7 +8,7 @@ x = xmlDoc.getElementsByTagName("postagem");
 function texto(){
         for(i = 0; i <= 1; i++){
             document.write( 
-                "<h1 class='display-3 titulo1'>" + x[i].getElementsByTagName("titulo")[0].childNodes[0].nodeValue + "</h1>" +
+                "<h1 class='display-3'>" + x[i].getElementsByTagName("titulo")[0].childNodes[0].nodeValue + "</h1>" +
                 "<div class='texto'>");
                 for(i = 0; i < x.length; i++){
                     document.write( 
