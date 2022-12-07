@@ -12,7 +12,8 @@ body{
 }
 
 .tres{
-    
+   margin-top: 10%; 
+   width: 75%;
 }
 
 .ongs{
@@ -20,15 +21,24 @@ body{
     width: 400px;
     height: 450px;
     border: #000000;
+    margin-top: 13%;
+    margin-left: 50%;
 }
 
 .pq{
     color: #000000;
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 17%;
 }
 
 .titulo{
+    position: absolute;
+width: 40%;
 font-family: 'Inika';
 font-style: normal;
+margin-top: 10%;
+margin-left: 13%;
 
 background-color: #AC8231;
 border-radius: 82px;
@@ -67,10 +77,28 @@ col-6 col-lg-3 mb-2
 .carrossel1{
     width: 80%;
     margin-left: 10%;
+    margin-top: 7%;
 }
 
 .carrossel2{
     width: 80%;
     margin-left: 10%;
-    margin-top: 35%;
+    margin-top: 10%;
+}
+
+.iniciativas{
+    margin-top: 12%;
+    width: 75%;
+    margin-left: 13%;
+    text-align: center;
+}
+
+.bloco1{
+margin-left: 13%;
+margin-top: 6%;
+}
+
+.bloco2{
+    margin-left: 50%;
+    margin-top: -21.5%;
 }
