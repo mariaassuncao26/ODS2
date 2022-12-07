@@ -37,4 +37,8 @@ div{
 col-6 col-lg-3 mb-2
 */
 
-
+.c{
+    border: #000000 solid 1px;
+    background-color: #E4D2AD;
+    text-decoration: none;
+}

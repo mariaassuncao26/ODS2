@@ -4,4 +4,22 @@
         <titulo>O que é ODS?</titulo>
         <texto>Os 17 Objetivos de Desenvolvimento Sustentável (ODS) foram estabelecidos pela Organização das Nações Unidas (ONU) em 2015 e compõem uma agenda mundial para a construção e implementação de políticas públicas que visam guiar a humanidade até 2030.</texto>
     </postagem>
+    <postagem>
+        <titulo>Notícia 1</titulo>
+        <corpo>Primeira notícia Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero odio iure, ea nulla accusantium quam. Modi cum labore odio nemo architecto. Deserunt aliquid tempora tenetur perspiciatis, consequuntur modi facilis illum fugiat quibusdam totam deleniti reiciendis, quae fugit repellat inventore aut culpa nesciunt laudantium possimus alias voluptas nulla? Tenetur, sapiente quis?</corpo>
+        <imagem>hulk.jpg</imagem>
+        <link>Saiba mais</link>
+    </postagem>
+    <postagem>
+        <titulo>Notícia 2</titulo>
+        <corpo>Segunda notícia Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero odio iure, ea nulla accusantium quam. Modi cum labore odio nemo architecto. Deserunt aliquid tempora tenetur perspiciatis, consequuntur modi facilis illum fugiat quibusdam totam deleniti reiciendis, quae fugit repellat inventore aut culpa nesciunt laudantium possimus alias voluptas nulla? Tenetur, sapiente quis?</corpo>
+        <imagem>mm.jpg</imagem>
+        <link>Saiba mais</link>
+    </postagem>
+    <postagem>
+        <titulo>Notícia 3</titulo>
+        <corpo>Terceira notícia Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero odio iure, ea nulla accusantium quam. Modi cum labore odio nemo architecto. Deserunt aliquid tempora tenetur perspiciatis, consequuntur modi facilis illum fugiat quibusdam totam deleniti reiciendis, quae fugit repellat inventore aut culpa nesciunt laudantium possimus alias voluptas nulla? Tenetur, sapiente quis?</corpo>
+        <imagem>wolverine.jpg</imagem>
+        <link>Saiba mais</link>
+    </postagem>
 </conteudo>
