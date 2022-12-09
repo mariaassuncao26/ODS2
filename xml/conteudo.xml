@@ -5,21 +5,159 @@
         <texto>Os 17 Objetivos de Desenvolvimento Sustentável (ODS) foram estabelecidos pela Organização das Nações Unidas (ONU) em 2015 e compõem uma agenda mundial para a construção e implementação de políticas públicas que visam guiar a humanidade até 2030.</texto>
     </postagem>
     <postagem>
-        <titulo>Notícia 1</titulo>
-        <corpo>Primeira notícia Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero odio iure, ea nulla accusantium quam. Modi cum labore odio nemo architecto. Deserunt aliquid tempora tenetur perspiciatis, consequuntur modi facilis illum fugiat quibusdam totam deleniti reiciendis, quae fugit repellat inventore aut culpa nesciunt laudantium possimus alias voluptas nulla? Tenetur, sapiente quis?</corpo>
-        <imagem>hulk.jpg</imagem>
+        <titulo>Para acabar com fome e poluir menos, agricultura deve aumentar produtividade em 28% na próxima década</titulo>
+        <corpo>Conclusão é de relatório da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) e a OCDE.
+
+Os objetivos de erradicar a fome e reduzir as emissões de gases do efeito estufa na agricultura não serão alcançadas até 2030 se esta não “se tornar mais eficiente”, afirmam Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) e a OCDE em um relatório.
+
+A produtividade agrícola mundial terá que aumentar 28% na próxima década para eliminar a fome e reduzir as emissões de gases poluentes, diz o documento, com base nas metas do acordo de Paris.
+
+Para isto seria necessário “mais que triplicar o aumento da produtividade agrícola da última década”.
+
+O aumento do rendimento dos cultivos de alimentos a nível mundial teria que passar de 13% a 24% em 2022-2031, enquanto a produtividade do gado precisaria aumentar em 31%.
+
+“Se o status quo for mantido, o Objetivo de Desenvolvimento Sustentável ODS-2 ‘Fome Zero’ da ONU não será alcançado até 2030, e as emissões de GEE agrícolas continuarão aumentando”, alertam a FAO e a Organização para a Cooperação e Desenvolvimento Econômico.
+
+As duas organizações esperam que a produção agrícola mundial aumente, em média, 1,1% por ano entre 2022 e 2031, principalmente nos países de renda baixa e média.
+
+Os “investimentos para aumentar o rendimento e a melhor gestão das propriedades devem estimular a produção agrícola”, afirmam.
+
+No caso de algumas regiões, como América Latina e Caribe, o relatório destaca “um grande potencial para ampliar a produção, embora a pobreza reduza o consumo de alimentos”.
+
+Ao mesmo tempo, as organizações esperam que a nível global a produção pecuária e pesqueira aumente 1,5% por ano, principalmente graças a uma gestão mais eficiente e a métodos de alimentação mais intensivos
+
+As perspectivas de crescimento pressupõem “maior acesso a insumos (como fertilizantes) e investimentos em tecnologia, infraestruturas e treinamento que aumentem a produtividade”
+
+A guerra na Ucrânia, no entanto, provocou a disparada dos preços da energia e dos insumos. E um aumento prolongado “elevará os custos de produção e poderá limitar o crescimento” nos próximos anos, alertam a FAO e a OCDE, o que podem provocar mudanças nas previsões.</corpo>
+        <imagem>agricultor-1000x419.jpg</imagem>
         <link>Saiba mais</link>
     </postagem>
     <postagem>
-        <titulo>Notícia 2</titulo>
-        <corpo>Segunda notícia Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero odio iure, ea nulla accusantium quam. Modi cum labore odio nemo architecto. Deserunt aliquid tempora tenetur perspiciatis, consequuntur modi facilis illum fugiat quibusdam totam deleniti reiciendis, quae fugit repellat inventore aut culpa nesciunt laudantium possimus alias voluptas nulla? Tenetur, sapiente quis?</corpo>
-        <imagem>mm.jpg</imagem>
+        <titulo>Falta de água pode devastar 80% das terras agrícolas no mundo até 2050</titulo>
+        <corpo>Estudo da Academia Chinesa de Ciências alerta que mudança no ciclo das chuvas é um dos maiores fatores a comprometer agricultura.
+
+A falta de água, devido às mudanças climáticas, poderá devastar até 84% das áreas agrícolas em todo o mundo até 2050. É o que constataram pesquisadores da Academia Chinesa de Ciências ao avaliarem a necessidade atual e futura de água para as terras agricultáveis.
+
+A equipe da Academia Chinesa de Ciências em Pequim analisou os níveis da água da chuva e irrigação em cada área de cultivo. A partir disso, criaram um índice para medir e prever a escassez de água nas diferentes superfícies relacionadas à agricultura, como solo, rios e áreas em irrigação.
+
+O índice, então, previu se os níveis de água disponíveis, seja da chuva ou da irrigação, serão suficientes para atender a essas necessidades sob as mudanças climáticas. Foram classificadas como água verde aquela que está no solo proveniente da chuva, e água azul aquela referente à irrigação de rios, lagos e águas subterrâneas.
+
+Segundo os pesquisadores, as mudanças de temperatura e padrões de chuva, bem como práticas agrícolas intensivas, tendem a causar escassez da água verde. “Como o maior usuário de recursos hídricos azuis e verdes, a produção agrícola enfrenta desafios sem precedentes”, disse Xingcai Liu, professor associado da Academia Chinesa de Ciências e principal autor do novo estudo.
+
+Com o índice, o objetivo dos pesquisadores é contribuir para que os países desenvolvam estratégias para reduzir o impacto de futuras secas, a partir da avaliação das causas da escassez de água na agricultura.
+
+Uma das práticas sugeridas pela pesquisa na conservação da água é adotar a cobertura de solo por meio do Sistema de Plantio Direto.</corpo>
+        <imagem>agua.jpg</imagem>
         <link>Saiba mais</link>
     </postagem>
     <postagem>
-        <titulo>Notícia 3</titulo>
-        <corpo>Terceira notícia Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero odio iure, ea nulla accusantium quam. Modi cum labore odio nemo architecto. Deserunt aliquid tempora tenetur perspiciatis, consequuntur modi facilis illum fugiat quibusdam totam deleniti reiciendis, quae fugit repellat inventore aut culpa nesciunt laudantium possimus alias voluptas nulla? Tenetur, sapiente quis?</corpo>
-        <imagem>wolverine.jpg</imagem>
+        <titulo>O que significa tornar a produção de alimentos mais sustentável</titulo>
+        <corpo>Se a agricultura conseguiu escalar a produção de alimentos, com ciência ela pode ser o caminho das soluções mais eficazes nas mudanças climáticas.
+
+Os consumidores, cada vez mais, estão tomando consciência da sustentabilidade por trás dos alimentos que compram. Em resposta a isso, muitas empresas de alimentos assumiram compromissos públicos com metas de sustentabilidade baseadas na ciência. Muitos desses objetivos incluem metas de emissões líquidas zero. De fato, de acordo com a Energy and Climate Intelligence Unit (Unidade de Inteligência de Energia e Clima), com sede no Reino Unido, um quinto das maiores empresas do mundo se comprometeram com uma meta de zero líquido.
+
+Esses compromissos, geralmente, listam metas que abordam as emissões provenientes da agricultura. As empresas de alimentos estão bem cientes de que a maioria das emissões embutidas em seus produtos vem da produção agrícola. As emissões na fazenda incluem aquelas relacionadas ao uso de máquinas movidas a diesel nas propriedades, bem como as emissões associadas às práticas de manejo da fazenda, como aplicações de fertilizantes sintéticos, cultivo do solo e falta de diversidade na rotação de culturas.
+
+Há uma ciência conclusiva que mostra que o cultivo excessivo, deixando o solo descoberto (em vez de usar cultivos de cobertura), e o uso excessivo de nitrogênio e outros fertilizantes, estão gerando muitas emissões. Aqui, chegamos a uma pergunta natural – em princípio, essas emissões podem ser evitadas?
+
+Parece apropriado que as empresas de alimentos estejam agora concentrando seus esforços no tratamento dessas emissões, com ênfase na agricultura. Essas empresas reconhecem que a própria agricultura pode ser a solução para o problema. Usando tecnologia e ciência modernas, podemos evitar muitas emissões associadas às práticas de manejo do solo e das culturas.
+
+Simplificando, se a agricultura pode mudar as práticas que originalmente nos permitiam escalar a produção de alimentos, então ela pode se tornar uma das soluções mais eficazes para as mudanças climáticas. Objetivos como os da PepsiCo reconhecem diretamente o potencial da agricultura – eles chamam a atenção para a necessidade específica da adoção da agricultura regenerativa em fazendas que fornecem os cultivos que se tornam ingredientes dos produtos da PepsiCo.
+
+Se todos concordam sobre o que precisa ser feito para produzir mais alimentos e como fazê-lo de forma sustentável para o planeta, então qual é o problema? Por que não temos essas práticas em vigor em todo o mundo? O que os líderes do setor devem fazer para incentivar a adoção dessas práticas?
+
+Infelizmente, é um pouco mais complicado do que parece. Vejamos brevemente as práticas de agricultura regenerativa e as implicações práticas de exigir que os agricultores adotem essas práticas.
+
+As práticas de agricultura regenerativa incluem o uso de culturas de cobertura (culturas que são cultivadas na entressafra e são usadas para reabastecer a saúde do solo), a redução da perturbação do solo (que é plantar as lavouras), a construção de um ecossistema comunitário com cultivos e gado, e a redução ou omissão de fertilizantes sintéticos e outros insumos.
+
+A maioria dessas práticas de agricultura regenerativa visa melhorar a saúde do solo, mantendo o solo coberto durante todo o ano. Isso irá protegê-lo da erosão devido a fortes chuvas ou ventos, mantendo a raiz viva no solo para continuar construindo as comunidades microbianas e outras formas de vida que melhoram a função do solo. Reduzir a erosão e construir comunidades microbianas no solo permite que o solo suporte melhor os cultivos, exigindo menos insumos, como fertilizantes. Também permite que o solo retenha mais carbono e outros nutrientes – compostos que, de outra forma, entrariam no ar como emissões de gases de efeito estufa.
+
+Embora haja muitos benefícios em melhorar a saúde do solo, como maior estabilidade de rendimento por hectare e menor necessidade de fertilizantes sintéticos, vejamos algumas limitações que podem dificultar a adoção dessas práticas pelos agricultores.
+
+Em primeiro lugar, nem todas as áreas do mundo têm condições propícias ao cultivo de múltiplas colheitas em um ano. Em áreas como o Canadá, o frio impede o cultivo de qualquer coisa entre a colheita do outono e o plantio da primavera, enquanto em áreas agrícolas como o Brasil, os agricultores agora cultivam três safras por ano. Para reduzir a perturbação do solo na fazenda e mudar para práticas mais regenerativas, um agricultor precisa comprar ou ter acesso a equipamentos caros que podem “injetar” as sementes no solo, causando uma perturbação mínima (se houver).
+
+Dispensável dizer que um potencial prêmio em preço aos agricultores dificilmente cobrirá o custo de aquisição do novo equipamento, mesmo considerando alguns anos. Mas, felizmente, há cada vez mais opções de financiamento disponíveis para os agricultores que desejam investir em soluções sustentáveis.
+
+Em suma, cada uma das práticas específicas de agricultura regenerativa vem com seu próprio conjunto de desafios para o agricultor, e nós, como sociedade, devemos reconhecer isso.
+
+Não há dúvidas sobre a necessidade de fazer a transição do nosso atual sistema de produção de alimentos para um mais sustentável. Esta é uma grande tarefa para uma das maiores indústrias do mundo. Não é uma tarefa fácil porque, além dos desafios listados acima e dos riscos que acompanham a adoção de novas tecnologias e práticas na fazenda, não existe uma receita única para a adoção da agricultura regenerativa em todas as fazendas do mundo.
+
+Felizmente, a ciência e a tecnologia modernas tornam essa tarefa viável e, assim como estamos vendo o surgimento de serviços personalizados ao consumidor, estamos entrando na era dos sistemas personalizados de apoio à decisão do agricultor – plataformas de software que adaptam recomendações com base nos dados de cada campo específico de uma fazenda.
+
+Essas plataformas de software, chamadas de “tecnologia agrícola” ou “agricultura de precisão”, são uma porta de entrada para o futuro da agricultura sustentável. Elas oferecem aos agricultores a oportunidade de adotar práticas agrícolas mais sustentáveis ​​e regenerativas em suas fazendas, mantendo a receita necessária para continuar produzindo alimentos para nossa crescente população.
+
+A indústria agrícola está comprometida com essa transformação e nós, como consumidores, devemos reconhecer o valor de apoiar sua transição com nossas preferências de marca e escolhas de produtos. Apoiar a agricultura regenerativa e sustentável permite que os agricultores adotem a ciência e a tecnologia de que precisam para utilizar práticas sustentáveis, e quanto mais eficientemente pudermos promover essa transição, melhor será o resultado para a Terra.</corpo>
+        <imagem>colheita-1000x368.jpg</imagem>
+        <link>Saiba mais</link>
+    </postagem>
+    <postagem>
+        <titulo>FAO promove 1ª feira virtual sobre inovação em territórios rurais</titulo>
+        <corpo>Entre 16 e 17 de novembro a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) reuniu empresários, acadêmicos, representantes governamentais, agências de cooperação e empresas privadas na 1ª feira virtual +Rural +Digital: Promovendo a integração do mundo rural.
+
+O evento teve como objetivo a troca de experiências e a construção de alianças e compromissos que visam contribuir para a melhoria da integração digital do mundo rural e dos sistemas agroalimentares de forma a enfrentar os desafios pós-COVID-19.
+
+Ao todo, mais de 1,5 mil pessoas participaram das atividades, organizadas pela iniciativa 1000 Aldeias Digitais e pelo Programa de Cooperação Sul-Sul FAO-China. 
+
+Na abertura do encontro, o diretor regional da FAO para a América Latina e o Caribe, Mario Lubetkin, destacou que a organização tem trilhado um caminho “que busca avançar na direção de melhores formas de produção e intercâmbio no mundo rural, incorporando novas tecnologias através da iniciativa 1000 Aldeias Digitais”.
+
+Lubetkin também ressaltou o papel das novas tecnologias na transformação dos territórios rurais: “A transformação digital do mundo rural representa uma oportunidade estratégica para o desenvolvimento sustentável e para a cooperação”.  
+
+Através de uma plataforma virtual, os participantes da feira tiveram acesso a quatro mesas temáticas com especialistas, cursos gratuitos de marketing digital e inovação na agricultura e estandes com informações sobre experiências turísticas em 10 países da região (República Dominicana, Guatemala, Chile, Nicarágua, Belize, Cuba, Venezuela, Equador, Colômbia e Peru). Todo o material e os vídeos de cada mesa estão disponíveis aqui.
+
+Os painéis contaram com a participação da presidenta do Fundo para o Financiamento do Setor Agropecuário da Colômbia (FINAGRO), Angela Penagos; da oficial de assuntos econômicos da CEPAL, Mónica Rodrígues; e da comissária de revitalização rural de Alibaba, no município de Pingshun, Donghong Lin; dentre outros representantes.
+
+No evento, foi destacado o papel da política nos desafios da transformação digital, especialmente no desenvolvimento de sistemas agroalimentares mais inclusivos, resilientes e ambientalmente sustentáveis. Ainda neste tema, a representante da CEPAL, Mónica Rodrigues defendeu que “é possível criar, até 2050, sistemas alimentares com baixa emissão de carbono a partir de tecnologias já existentes. Ainda que, hoje, nem todos tenham o melhor custo-benefício, eles podem se tornar eficientes com a ajuda da informatização”.
+
+Representante da FINAGRO – entidade que promove o desenvolvimento do setor rural na Colômbia –, Angela Penagos ressaltou que “um dos maiores desafios é tentar incluir 750.000 novos produtores rurais no sistema financeiro, uma vez que muitos provavelmente nunca tiveram contato com nenhum serviço financeiro para o setor agropecuário”.
+
+Cooperação Sul-Sul – As experiências de outras regiões também estiveram presentes em um painel organizado com o apoio do projeto Cooperação Sul-Sul: Transformação digital e inovação na agricultura.
+
+Comissária de revitalização rural de Alibaba, Donghong Lin participou da conversa junto do especialista da FarmBetter, Benjamin Gräub, que lidera uma equipe de consultoria digital para agricultores na África subsaariana, América Latina e Ásia.
+
+Lin destacou o papel do governo nos processos de informatização, e disse que “o governo chinês busca expandir o ambiente digital e o comércio eletrônico para que alcancem todos os negócios tradicionais, garantindo a infraestrutura e o acesso à internet como forma de apoiar esses processos”.
+
+Já Gräub compartilhou sua experiência com agricultores na África Oriental, Índia e no Nepal, que receberam apoio e buscaram soluções para os desafios impostos pelas mudanças climáticas. Ele e sua equipe se concentram “nas práticas de gestão, mas também contam com um banco de dados sobre técnicas sustentáveis, que pode ser facilmente acessado pelos agricultores através da alfabetização digital”.</corpo>
+        <imagem>youtube-1000x479.jpg</imagem>
+        <link>Saiba mais</link>
+    </postagem>
+    <postagem>
+        <titulo>Projeto Nutrir o Futuro é destaque em relatório da Cooperação Sul-Sul</titulo>
+        <corpo>A Cooperação Sul-Sul e triangular pode ser fundamental para recuperar perdas e promover o compromisso global de não deixar ninguém para trás em um mundo afetado pela pandemia de COVID-19, crises climáticas e guerra na Ucrânia. No cerne da Cooperação Sul-Sul e trilateral está o entendimento de que a troca de conhecimentos, habilidades, experiências e lições aprendidas entre países do sul global servem como um poderoso catalisador para o desenvolvimento.
+
+É com isso em mente que o Escritório das Nações Unidas para a Cooperação Sul-Sul (UNOSSC) lançou, em 12 de setembro, o volume 4 da série “Boas Práticas em Cooperação Sul-Sul e Trilateral para o Desenvolvimento Sustentável”, durante a Global South-South Development (GSSD) Expo 2022.
+
+A publicação mostra exemplos concretos sobre como os atores de desenvolvimento estão utilizando a Cooperação Sul-Sul e trilateral para acelerar o progresso para a realização de todos os 17 Objetivos de Desenvolvimento Sustentável. Um desses exemplos é o projeto Nutrir o Futuro, uma colaboração entre o Centro de Excelência contra a Fome do Programa Mundial de Alimentos (WFP) no Brasil, o Ministério da Saúde e a Agência Brasileira de Cooperação, ao lado da Colômbia e do Peru.
+
+O Centro de Excelência do WFP atua como uma plataforma para compartilhar conhecimento e responder a pedidos de troca de informações de países comprometidos em expandir seus programas nutricionais. O projeto Nutrir o Futuro foi concebido em 2020 para ajudar os formuladores de políticas no Brasil, Colômbia e Peru a combater a múltipla carga da má nutrição em crianças em idade escolar. Ganhou força no segundo semestre de 2020, quando houve um aumento significativo nas taxas de má nutrição (desnutrição, sobrepeso, obesidade, etc.) na América Latina devido às medidas de resposta à COVID-19, tornando esta colaboração Sul-Sul fundamental. </corpo>
+        <imagem>ods_nutriA.jpg</imagem>
+        <link>Saiba mais</link>
+    </postagem>
+    <postagem>
+        <titulo>Principal banco de dados do mundo sobre conhecimento e gestão sustentável da terra agora está disponível em português</titulo>
+        <corpo>Com apoio do Projeto REDESER, plataforma WOCAT torna acessível seu acervo de melhores práticas de gestão sustentável da terra para os 10 países do mundo que falam português
+
+A partir deste mês de agosto, o site da rede global de Visão Mundial das Abordagens e Tecnologias de Conservação (WOCAT, do nome em inglês World Overview of Conservation Approaches and Technologies), torna acessível para as mais de 260 milhões de pessoas que falam português ao redor do mundo, o seu acervo gratuito de melhores práticas de gestão sustentável da terra (SLM, do nome em inglês Sustainable Land Management).
+
+A tradução foi viabilizada pelo projeto “Revertendo o Processo de Desertificação nas Áreas Suscetíveis do Brasil: Práticas Agroflorestais Sustentáveis e Conservação da Biodiversidade”, também conhecido como REDESER.
+
+Estão disponíveis mapas, gráficos, informações relevantes e documentos sobre práticas de SLM testadas em diferentes lugares do mundo. Além disso, os profissionais que atuam na área também podem compartilhar suas próprias práticas e pesquisas.
+
+Segundo o coordenador técnico do projeto, Gustavo Pinho, a tradução da plataforma propicia um ambiente mais acessível e amigável para pesquisadores e instituições, o que permitirá um maior intercâmbio das experiências não só pelo Brasil, mas também por outros países.
+
+“Esta não é só uma oportunidade de melhorar o conhecimento dos países que falam português sobre as práticas de SLM, mas também de aumentar a representatividade das ações dos países que falam português na plataforma”, completou Pinho.
+
+Em 2020 o Banco de Dados Global de SLM da rede WOCAT foi oficialmente reconhecido pela Convenção das Nações Unidas para o Combate à Desertificação (UNCCD) como o principal banco de dados global sobre melhores práticas de gestão sustentável da terra.
+
+Acesse o site em português aqui.
+
+Sobre o WOCAT
+
+Lançado em 1992, o WOCAT é uma rede global que tem o objetivo de documentar, compartilhar e aplicar conhecimentos de gestão sustentável da terra (SLM). Pioneira em ações transformadoras para a SLM, a rede estabelece um espaço inovador para compartilhar e dar escala a boas práticas para enfrentar a degradação da terra, as mudanças climáticas e a perda da biodiversidade.
+
+Sobre o REDESER
+
+Financiado pelo Fundo Global para o Meio Ambiente (GEF), e com Ministério do Meio Ambiente (MMA) como principal parceiro executor, o REDESER tem como objetivo interromper e reverter o processo de desertificação, por meio de ações para enfrentar as causas cada vez mais crescentes da degradação do solo e da perda de biodiversidade nos ecossistemas da Caatinga, com foco nas Áreas Suscetíveis à Desertificação (ASD).</corpo>
+        <imagem>plantacaoA_A.jpg</imagem>
         <link>Saiba mais</link>
     </postagem>
 </conteudo>
