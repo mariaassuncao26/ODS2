@@ -6,6 +6,11 @@ body{
     background-color: #AC8331;
 }
 
+.inika{
+    font-family: 'Inika';
+    font-style: normal;
+}
+
 .oque{
     margin-top: 6%;
     width: 75%;
@@ -14,15 +19,6 @@ body{
 .tres{
    margin-top: 10%; 
    width: 75%;
-}
-
-.ongs{
-    background-color: #cab07c;
-    width: 400px;
-    height: 450px;
-    border: #000000;
-    margin-top: 13%;
-    margin-left: 50%;
 }
 
 .pq{
@@ -34,22 +30,13 @@ body{
 
 .titulo{
     position: absolute;
-width: 40%;
-font-family: 'Inika';
-font-style: normal;
 margin-top: 10%;
 margin-left: 13%;
 
-background-color: #AC8231;
-border-radius: 82px;
 }
 
 .footer{
     background-color: #AC8331;
-}
-
-div{
-    font-size: medium;
 }
 
 /*<div><img src="imgs/Untitled 1.png"></div>
@@ -94,26 +81,46 @@ col-6 col-lg-3 mb-2
 }
 
 .bloco1{
-margin-left: 15%;
-margin-top: 6%;
-width: 40%;
+    margin-left: 12%;
+    width: 35%;
+    grid-column-gap: 15px;
+    margin-top: 4%;
 }
-
+    
 .bloco2{
-    margin-left: 15%;
-    margin-top: 6%;
-    width: 40%;
+    margin-left: 6%;
+    width: 35%;
+    grid-column-gap: 15px;
+    margin-top: 4%;
 }
-
+    
 .bloco3{
-    margin-left: 50%;
-    margin-top: -21.5%;
-    width: 40%;
+    margin-left: 12%;
+    width: 35%;
+    grid-column-gap: 15px;
+    margin-top: 4%;
 }
-
+    
 .bloco4{
-    margin-left: 50%;
-    margin-top: -11.5%;
-    width: 40%;
+    margin-left: 6%;
+    width: 35%;
+    grid-column-gap: 15px;
+    margin-top: 4%;
 }
 
+.rounded{
+    margin-top: 12%;
+    grid-column-gap: 15px;
+}
+
+.ong{
+    margin-top: 12%;
+    grid-column-gap: 15px; 
+    width: 35%;
+}
+
+.ongs{
+    background-color: #cab07c;
+    width: 400px;
+    height: 450px;
+}
