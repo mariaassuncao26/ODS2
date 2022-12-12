@@ -2,8 +2,12 @@
 <conteudo>
     <postagem>
         <titulo>O que é ODS?</titulo>
-        <texto>Os 17 Objetivos de Desenvolvimento Sustentável (ODS) foram estabelecidos pela Organização das Nações Unidas (ONU) em 2015 e compõem uma agenda mundial para a construção e implementação de políticas públicas que visam guiar a humanidade até 2030.</texto>
+        <texto>Os 17 Objetivos de Desenvolvimento Sustentável (ODS) foram estabelecidos pela Organização das Nações Unidas (ONU) em 2015 e compõem uma agenda mundial para a construção e implementação de políticas públicas que visam guiar a humanidade até 2030.
+        </texto>
     </postagem>
+
+
+
     <postagem>
         <titulo>Para acabar com fome e poluir menos, agricultura deve aumentar produtividade em 28% na próxima década</titulo>
         <corpo>Conclusão é de relatório da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) e a OCDE.
@@ -89,8 +93,7 @@ Essas plataformas de software, chamadas de “tecnologia agrícola” ou “agri
 A indústria agrícola está comprometida com essa transformação e nós, como consumidores, devemos reconhecer o valor de apoiar sua transição com nossas preferências de marca e escolhas de produtos. Apoiar a agricultura regenerativa e sustentável permite que os agricultores adotem a ciência e a tecnologia de que precisam para utilizar práticas sustentáveis, e quanto mais eficientemente pudermos promover essa transição, melhor será o resultado para a Terra.</corpo>
         <imagem>colheita-1000x368.jpg</imagem>
         <link>Saiba mais</link>
-    </postagem>
-    <postagem>
+        <postagem>
         <titulo>FAO promove 1ª feira virtual sobre inovação em territórios rurais</titulo>
         <corpo>Entre 16 e 17 de novembro a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) reuniu empresários, acadêmicos, representantes governamentais, agências de cooperação e empresas privadas na 1ª feira virtual +Rural +Digital: Promovendo a integração do mundo rural.
 
@@ -160,10 +163,5 @@ Financiado pelo Fundo Global para o Meio Ambiente (GEF), e com Ministério do Me
         <imagem>plantacaoA_A.jpg</imagem>
         <link>Saiba mais</link>
     </postagem>
+    </postagem>
 </conteudo>
-
-
-
-
-
-https://portalods.com.br/noticias/principal-banco-de-dados-do-mundo-sobre-conhecimento-e-gestao-sustentavel-da-terra-agora-esta-disponivel-em-portugues/

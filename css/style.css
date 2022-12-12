@@ -4,6 +4,8 @@ body{
 
 .cima{
     background-color: #AC8331;
+    margin-top: 0%;
+    margin-left: 0%;
 }
 
 .inika{
@@ -42,12 +44,6 @@ margin-left: 13%;
 /*<div><img src="imgs/Untitled 1.png"></div>
 col-6 col-lg-3 mb-2
 */
-
-.c{
-    border: #000000 solid 1px;
-    background-color: #E4D2AD;
-    text-decoration: none;
-}
 
 .carr{
     margin-left: 25%;
@@ -123,4 +119,18 @@ col-6 col-lg-3 mb-2
     background-color: #cab07c;
     width: 400px;
     height: 450px;
+}
+
+
+.c{
+    border: #000000 solid 1px;
+    background-color: #E4D2AD;
+    grid-column-gap: 15px;
+    margin-left: 3%;
+    margin-top: 40%;
+}
+
+.topo{
+    margin-top: 15%;
+    margin-bottom: -8%;
 }
