@@ -132,3 +132,22 @@ col-6 col-lg-3 mb-2
     margin-top: 15%;
     margin-bottom: -8%;
 }
+
+.titulop{
+    width: 75%;
+    margin-top: 7%;
+    margin-left: 9%;
+    font-size: 7ch;
+}
+
+.imagemp{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.corpop{
+    margin-top: 10%;
+    width: 75%;
+    margin-left: 5%;
+}
