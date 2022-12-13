@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <conteudo>
     <postagem>
+        <titulo>O que é ODS?</titulo>
+        <texto>Os 17 Objetivos de Desenvolvimento Sustentável (ODS) foram estabelecidos pela Organização das Nações Unidas (ONU) em 2015 e compõem uma agenda mundial para a construção e implementação de políticas públicas que visam guiar a humanidade até 2030.</texto>
+    </postagem>
+    <postagem>
         <titulo>Para acabar com fome e poluir menos, agricultura deve aumentar produtividade em 28% na próxima década</titulo>
         <comentario>A produtividade agrícola mundial terá que aumentar 28% na próxima década para eliminar a fome e reduzir as emissões de gases poluentes, diz o documento, com base nas metas do acordo de Paris.</comentario>
         <p1>
@@ -89,7 +93,8 @@
         </p3>
         <imagem>colheita-1000x368.jpg</imagem>
         <link>Saiba mais</link>
-        <postagem>
+    </postagem>
+    <postagem>
         <titulo>FAO promove 1ª feira virtual sobre inovação em territórios rurais</titulo>
         <comentario>Entre 16 e 17 de novembro a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) reuniu empresários, acadêmicos, representantes governamentais, agências de cooperação e empresas privadas na 1ª feira virtual +Rural +Digital: Promovendo a integração do mundo rural.</comentario>
         <p1>
@@ -167,6 +172,5 @@
         </p3>
         <imagem>plantacaoA_A.jpg</imagem>
         <link>Saiba mais</link>
-    </postagem>
     </postagem>
 </conteudo>
